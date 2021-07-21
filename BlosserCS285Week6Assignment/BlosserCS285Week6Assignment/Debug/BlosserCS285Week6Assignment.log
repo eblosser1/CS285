@@ -1,0 +1,3 @@
+﻿  myVector.cpp
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week6Assignment\BlosserCS285Week6Assignment\myVector.cpp(133,20): warning C4018:  '<': signed/unsigned mismatch
+  BlosserCS285Week6Assignment.vcxproj -> C:\Users\eblosser\Documents\CS285\BlosserCS285Week6Assignment\Debug\BlosserCS285Week6Assignment.exe
