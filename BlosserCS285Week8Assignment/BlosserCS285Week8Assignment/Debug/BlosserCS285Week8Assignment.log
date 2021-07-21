@@ -1,0 +1,32 @@
+﻿  stackTest.cpp
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(71,12): warning C4101:  'sizeNum': unreferenced local variable
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(62): message :  while compiling class template member function 'void stackType<int>::push(const Type &)'
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(62): message :         with
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(62): message :         [
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(62): message :             Type=int
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(62): message :         ]
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\stackTest.cpp(15): message :  see reference to function template instantiation 'void stackType<int>::push(const Type &)' being compiled
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\stackTest.cpp(15): message :         with
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\stackTest.cpp(15): message :         [
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\stackTest.cpp(15): message :             Type=int
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\stackTest.cpp(15): message :         ]
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\stackTest.cpp(11): message :  see reference to class template instantiation 'stackType<int>' being compiled
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(92,12): warning C4101:  'granthasizeNum': unreferenced local variable
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(86): message :  while compiling class template member function 'Type stackType<Type>::top(void) const'
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(86): message :         with
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(86): message :         [
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(86): message :             Type=int
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(86): message :         ]
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\stackTest.cpp(21): message :  see reference to function template instantiation 'Type stackType<Type>::top(void) const' being compiled
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\stackTest.cpp(21): message :         with
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\stackTest.cpp(21): message :         [
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\stackTest.cpp(21): message :             Type=int
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\stackTest.cpp(21): message :         ]
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(106,12): warning C4101:  'sizeNum': unreferenced local variable
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(100): message :  while compiling class template member function 'void stackType<int>::pop(void)'
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\stackTest.cpp(27): message :  see reference to function template instantiation 'void stackType<int>::pop(void)' being compiled
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(125,12): warning C4101:  'sizeNum': unreferenced local variable
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(113): message :  while compiling class template member function 'stackType<int>::stackType(int)'
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\stackTest.cpp(11): message :  see reference to function template instantiation 'stackType<int>::stackType(int)' being compiled
+C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\BlosserCS285Week8Assignment\myStack.h(92): warning C4715:  'stackType<int>::top': not all control paths return a value
+  BlosserCS285Week8Assignment.vcxproj -> C:\Users\eblosser\Documents\CS285\BlosserCS285Week8Assignment\Debug\BlosserCS285Week8Assignment.exe
